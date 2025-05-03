@@ -1,5 +1,7 @@
 streamlit
-pandas==2.2.1
-requests==2.31.0
-ta==0.10.2
-python-telegram-bot==13.15
+aiohttp
+dateparser
+pycryptodome
+requests
+websockets
+websockets_proxy; python_version >= '3.8'
